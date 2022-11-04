@@ -1,0 +1,26 @@
+.pink{
+    font-weight: bold;
+    color: rgb(255,0,255)
+}
+.yellow{
+    font-weight: bold;
+    color: rgb(255, 225, 0)
+}
+.blue{
+    font-weight: bold;
+    color: rgb(0,0,255)
+}
+#TopBar{
+    position: sticky;
+    color: blue
+    
+}
+body{
+    background-color: #696969;
+}
+#UnderConstruction{
+    color:red;
+    font-family: 'Bakbak One';
+    margin:0%;
+    margin-left: 10px;
+}
